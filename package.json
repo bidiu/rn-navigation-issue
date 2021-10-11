@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "typecheck": "tsc"
+    "typescript": "tsc"
   },
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.11",
